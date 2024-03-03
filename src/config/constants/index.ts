@@ -6,7 +6,7 @@ import { MeterReadings } from "../data/entity/MeterReadings";
 
 export const pathInfo: PathInfoTypes = {
   directory: "NEM12_Files",
-  file: "NEM12_Test_1_Million_Records.csv",
+  file: "NEM12_Sample.csv",
 };
 
 export const encoding = "utf8";
